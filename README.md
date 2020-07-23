@@ -7,7 +7,7 @@ It uses a queue file to locate the queue and the maximun quantity of people per 
 
 # How to use it
 
-Clone the file and use the job submission script in your terminal
+Clone the file and use the job submission script in your terminal. Verify you have a correct queue file
 # License
 
 MIT License
