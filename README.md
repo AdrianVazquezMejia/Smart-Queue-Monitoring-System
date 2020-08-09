@@ -7,7 +7,9 @@ It uses a queue file to locate the queue and the maximun quantity of people per 
 
 # How to use it
 
-Clone the file and use the job submission script in your terminal. Verify you have a correct queue file, which is a numpy file that must have the coordinates of the queue in the video screen.
+Clone the file and use the job submission script in your terminal. Verify you have a correct queue file, which is a numpy file that must have the coordinates of the queue in the video screen. 
+
+This numpy file has to be create by you regarding your partical application
 # License
 
 MIT License
